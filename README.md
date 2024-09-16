@@ -3,13 +3,20 @@ Este proyecto es una simple API que valida el acceso a rutas según el rol de us
 -- Instalación y configuración --
 
 Clona este repo:
-->> git clone https://github.com/tu-usuario/tu-repo.git
-->> cd tu-repo
+
+->> cd tu-carpeta-local
+
+
+->> git clone https://github.com/RodeloDev19/desarrollo_servidor.git
+
 
 Instala las dependencias:
+
 ->> npm install
 
 Ejecuta:
+
 ->> npm start
+
 
 Lo podrás ver en: http://localhost:3000
